@@ -17,56 +17,6 @@
 
 ---
 
-## 🎯 **NEURAL INTERFACE ACTIVATED**
-
-<table align="center">
-<tr>
-<td width="50%">
-
-```python
-class EliasHurtado:
-    def __init__(self):
-        self.name = "Elias Hurtado"
-        self.role = "Full-Stack Developer"
-        self.location = "🇨🇴 Colombia | 🌍 Remote"
-        self.code = {
-            "frontend": ["HTML", "CSS", "JavaScript", "TypeScript"],
-            "backend": ["Python", "Java", "Node.js", "Django"],
-            "3d_graphics": ["Three.js"],
-            "languages": ["C++", "PHP"],
-            "tools": ["Git", "GitHub"]
-        }
-        self.architecture = ["MVC", "RESTful APIs", "SPA"]
-```
-
-</td>
-<td width="50%">
-
-```json
-{
-  "current_status": "🔥 Building digital experiences",
-  "daily_routine": {
-    "morning": "☕ Coffee + Algorithm challenges",
-    "afternoon": "💻 Crafting web applications", 
-    "evening": "🎮 3D graphics & experiments",
-    "night": "🌙 Open source contributions"
-  },
-  "motto": "Code is poetry, logic is art",
-  "currently_learning": [
-    "🌐 Advanced Web APIs",
-    "🎨 WebGL & 3D Programming", 
-    "⚡ Performance Optimization",
-    "🔧 System Architecture"
-  ]
-}
-```
-
-</td>
-</tr>
-</table>
-
----
-
 ## ⚡ **TECH ARSENAL**
 
 <div align="center">
